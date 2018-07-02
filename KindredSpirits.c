@@ -224,13 +224,3 @@ int kindredSpirits(node *a, node *b)
 	killCleverArray(d);
 	return 1;
 }
-
-double difficultyRating(void)
-{
-	return 4.5;
-}
-
-double hoursSpent(void)
-{
-	return 15.5;
-}
